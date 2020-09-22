@@ -3,6 +3,7 @@ package Pruebas;
 
 public class Prueba_Clases {
     public static void main(String[] argv){
-        System.out.println("Hola Mundo Java");
+        String holaMundo="Hola Mundo Java";
+        System.out.println(holaMundo);
     }
 }
